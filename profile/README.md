@@ -34,6 +34,18 @@ Browse the repositories above, enter through the projects index, or start with t
 
 - - - - - - -
 
+## Citable releases
+
+Releases of the operation's repositories, datasets, and publications are
+archived with DOIs on Zenodo and collected in the Historiotheque community:
+
+[Historiotheque community on Zenodo](https://zenodo.org/communities/historiotheque/)
+
+Every deposit is a release of the operation — citable, preserved, and
+cross-referenced from the documentation here.
+
+- - - - - - -
+
 **A note on what this is.** This repository belongs to an ongoing research-creation
 project at the intersections of art, history, and philosophy — the open working
 record of one artist-researcher's practice. It documents a method, not a manual:
