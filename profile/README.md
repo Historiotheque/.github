@@ -24,6 +24,7 @@ and citable releases on Zenodo.
 An art studio and its laboratories, mapped as repositories:
 
 - **[Historiotheque](https://github.com/Historiotheque/Historiotheque)** — the operation root: official documents (Declarations, Releases, PROSPECTIVEs, RETROSPECTIVEs), the documentation specs, schemas, the master bibliography, and the projects index.
+- **[VerifiabilityStack](https://github.com/Historiotheque/VerifiabilityStack)** — the verifiability guide: a reproducible, step-by-step guide for independent artist-researchers — how to make your work identifiable, timestamped, citable, and findable with no institution behind you; the documentation apparatus that substitutes for the institutional imprimatur. Seven chapters, three templates, CC BY 4.0.
 - **[Refcards](https://github.com/Historiotheque/Refcards)** — the atomic knowledge base: one concept per card, numbered `RC-YYYY-NNNN`, cross-referenced across the whole operation.
 - **[DesignConcepts](https://github.com/Historiotheque/DesignConcepts)** — the novel-concepts laboratory: design concepts for novels and novelistic phenomenologies, one file per concept, versioned by new dated files rather than rewritten in place.
 - **[Works](https://github.com/Historiotheque/Works)** — the artwork catalog: every work across the three streams — images, sounds, texts — with metadata and web copies; full-resolution masters on the Internet Archive.
