@@ -24,6 +24,7 @@ and citable releases on Zenodo.
 An art studio and its laboratories, mapped as repositories:
 
 - **[Historiotheque](https://github.com/Historiotheque/Historiotheque)** — the operation root: official documents (Declarations, Releases, PROSPECTIVEs, RETROSPECTIVEs), the documentation specs, schemas, the master bibliography, and the projects index.
+- **[Research](https://github.com/Historiotheque/Research)** — the scholarly apparatus of the practice: research questions, literature reviews, bibliographies, and research methods.
 - **[VerifiabilityStack](https://github.com/Historiotheque/VerifiabilityStack)** — the verifiability guide: a reproducible, step-by-step guide for independent artist-researchers — how to make your work identifiable, timestamped, citable, and findable with no institution behind you; the documentation apparatus that substitutes for the institutional imprimatur. Seven chapters, three templates, CC BY 4.0.
 - **[ArtOperation](https://github.com/Historiotheque/ArtOperation)** — the art-operation manual: how to build and run a mature artistic practice — nine chapters on the witness-box, preparation, process, documentation, implementation, continuity, practice, workspace, and being a good Operator; workspace theory, the Historiotheque as worked example, and a glossary.
 - **[Refcards](https://github.com/Historiotheque/Refcards)** — the atomic knowledge base: one concept per card, numbered `RC-YYYY-NNNN`, cross-referenced across the whole operation.
