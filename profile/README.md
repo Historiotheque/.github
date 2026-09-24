@@ -4,6 +4,8 @@
 
 *"OPERATIVE HISTORIOGRAPHY: SEED NOISE". Abstract digital painting by A.G. (c) 2026.*
 
+- - - - - - -
+
 The Historiotheque is the art operation of interdisciplinary artist-researcher A.G.
 (Alex Gagnon) — an art studio, sound design laboratory, and research practice treated
 as cultural software, developed over thirty years of work across images, sounds, and texts.
