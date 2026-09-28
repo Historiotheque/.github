@@ -36,6 +36,7 @@ An art studio and its laboratories, mapped as repositories:
 - **[ArtOperation](https://github.com/Historiotheque/ArtOperation)** — the art-operation manual: how to build and run a mature artistic practice — nine chapters on the witness-box, preparation, process, documentation, implementation, continuity, practice, workspace, and being a good Operator; workspace theory, the Historiotheque as worked example, and a glossary.
 - **[Refcards](https://github.com/Historiotheque/Refcards)** — the atomic knowledge base: one concept per card, numbered `RC-YYYY-NNNN`, cross-referenced across the whole operation.
 - **[DesignConcepts](https://github.com/Historiotheque/DesignConcepts)** — the design-concepts laboratory: design concepts for novels, series, albums, the workspace, and the Art Operation itself — one file per concept, versioned by new dated files rather than rewritten in place.
+- **[ExperimentalNovel](https://github.com/Historiotheque/ExperimentalNovel)** — the experimental-novel laboratory: The Revolt of Fiction trilogy (The History-Project, The Archives-Project, The Chronotopium: A Story of Algorithmogenesis) — the series bible, the Interzone staging buffer, the REFMATS illuminated bibliography, and novel logs.
 - **[Works](https://github.com/Historiotheque/Works)** — the artwork catalog: every work across the three streams — images, sounds, texts — with metadata and web copies; full-resolution masters on the Internet Archive.
 
 *Forthcoming: CrossRefs, RefMats, and CourseMats — cross-references, reference materials, and course materials.*
